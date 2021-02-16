@@ -4,9 +4,13 @@ Integrate [CRM Pipedrive API](https://www.pipedrive.com/) with [ERP Bling API](h
 
 ## Getting Started
 
+After clone this repository and open that in you prefer terminal
+
 ### Environment
 
 - Setup a complete [NodeJS](https://www.nodejs.org/) development environment
+
+- Execute `yarn` or `npm install` to download all dependencies
 
 - Copy `.env.example` to `.env` file
   - Unix you can execute this in root directory `cp .env.example .env`
