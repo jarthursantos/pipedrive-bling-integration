@@ -36,3 +36,8 @@ After clone this repository and open that in you prefer terminal
 
 - `yarn build` or `npm run build`
 - `yarn start` or `npm run start`
+
+## Routes
+
+- GET `/` endpoint to find won deals and create sales order
+- GET `/report` endpoint to get sales orders report with all deals
